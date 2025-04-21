@@ -8,7 +8,7 @@ import {
   CardContainer,
   Divider
 } from './ProjectsStyle';
-import ProjectCards from '../Cards/ProjectCards.jsx';
+import ProjectCard from '../Cards/ProjectCards.jsx';
 import { projects } from '../../data/constants.js';
 
 const Projects = ({ openModal, setOpenModal }) => {
@@ -17,7 +17,7 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects in ML,DL & NLP.
+          I have worked on a wide range of projects in ML, DL & NLP.
         </Desc>
 
         <CardContainer>
