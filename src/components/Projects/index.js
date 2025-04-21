@@ -8,8 +8,8 @@ import {
   CardContainer,
   Divider
 } from './ProjectsStyle';
-import ProjectCard from '../Cards/ProjectCards.jsx';
-import { projects } from '../../data/constants.js';
+import ProjectCard from '../Cards/ProjectCards';
+import { projects } from '../../data/constants';
 
 const Projects = ({ openModal, setOpenModal }) => {
   return (
