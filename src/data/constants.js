@@ -212,7 +212,7 @@ export const projects = [
     description:
       "Developed a CNN model to classify X-ray images as Pneumonia or Normal using TensorFlow. Achieved high accuracy with data augmentation, dropout, and early stopping strategies.",
     image:
-      "https://private-user-images.githubusercontent.com/92287609/435470494-74b83c66-ef2f-4e84-b253-b875c2cba169.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjc3MTAsIm5iZiI6MTc0NTIyNzQxMCwicGF0aCI6Ii85MjI4NzYwOS80MzU0NzA0OTQtNzRiODNjNjYtZWYyZi00ZTg0LWIyNTMtYjg3NWMyY2JhMTY5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA5MjMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzOTQ5NzkyZTNmOGNiODI5YjM3MzNjNzFlMTdlYWMwMGZjNDA0ZWE2ZGYxZTZhZDczMjY0YWQ2YTI4YTAxZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q8BiTcu-Uk3J1Sxc4yz1Aelxp3qIVEc6yYh3FDj_Bto",
+      "https://github.com/user-attachments/assets/01c9d174-503c-42c0-80c6-b1231f9d7d74",
     tags: ["CNN", "TensorFlow", "Deep Learning", "Image Classification", "Medical AI"],
     github: "https://github.com/RahulRayi777/Detecting_Chest-X-Ray-Images-Pneumonia-"
   },
