@@ -84,7 +84,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://private-user-images.githubusercontent.com/92287609/435475614-745cc3b0-51d7-4af4-85d6-15133fc50256.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjY0ODksIm5iZiI6MTc0NTIyNjE4OSwicGF0aCI6Ii85MjI4NzYwOS80MzU0NzU2MTQtNzQ1Y2MzYjAtNTFkNy00YWY0LTg1ZDYtMTUxMzNmYzUwMjU2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA5MDMwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljYjljNTY3YjcyZGYyNzQwZjgyNDU5ZjFjMGI5MDU5Mjg5MWY0NTI4YmU1MjcxNjg2OWY0NjI2ODY3MjI1MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UxHlyElVowSmC4QqgkHUtogU5BkOcJkk-RFb80VZaBk",
+    img: "https://github.com/user-attachments/assets/ea9e83fe-1967-482f-bad5-eb5784915698",
     role: "Machine Learning Engineer Intern",
     company: "Inscripta.ai",
     date: "Jun 2023 - Aug 2023",
@@ -99,7 +99,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://private-user-images.githubusercontent.com/92287609/435475612-0ddd1f65-44d2-496c-9de3-f265d71507f4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjY0ODksIm5iZiI6MTc0NTIyNjE4OSwicGF0aCI6Ii85MjI4NzYwOS80MzU0NzU2MTItMGRkZDFmNjUtNDRkMi00OTZjLTlkZTMtZjI2NWQ3MTUwN2Y0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyMVQwOTAzMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTVjYTk3NTM2YzlmYjgxMDFkYTMwM2U2ODZjNTc4ZTlhZWYwYzYxYjA2ZDA0N2MxYzQ1MjNkY2VmMDhhNmIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.92dATYN4VIncYf8FTGAUwbOLN838YIKkjYd_mOqdvU4",
+    img: "https://github.com/user-attachments/assets/5d5f0a83-4c6c-4154-a001-5a5cf1d9c66d",
     role: "Package Analyst",
     company: "L&T Hydrocarbon",
     date: "Aug 2023 - Oct 2024",
@@ -114,7 +114,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://private-user-images.githubusercontent.com/92287609/435475613-2dcc25d0-e5f2-47ad-994f-2918e1813a05.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjY0ODksIm5iZiI6MTc0NTIyNjE4OSwicGF0aCI6Ii85MjI4NzYwOS80MzU0NzU2MTMtMmRjYzI1ZDAtZTVmMi00N2FkLTk5NGYtMjkxOGUxODEzYTA1LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyMVQwOTAzMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMjkzZmYzY2U4MmFlMzY2M2UxN2QyOGMwOTFmYjdjMjYwZjBmZjJlYTAxYzk4NTgxODE4MWU2YzJmY2U4MDY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-VcuEp5Yoib80trywIQ7zdJiV9Z1ZktwvHq7zgh_YwY",
+    img: "https://github.com/user-attachments/assets/48e57e5d-f588-4cac-9d17-638cafdcab4a",
     role: "Data Science Intern",
     company: "Bicree.com",
     date: "Jan 2023 - Apr 2023",
@@ -133,7 +133,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://private-user-images.githubusercontent.com/92287609/435476104-8655f2e0-79d6-4473-a602-587b8aecaf3a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjYxNzAsIm5iZiI6MTc0NTIyNTg3MCwicGF0aCI6Ii85MjI4NzYwOS80MzU0NzYxMDQtODY1NWYyZTAtNzlkNi00NDczLWE2MDItNTg3YjhhZWNhZjNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA4NTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5ODZhZGM0NmUxYzQ3YTdjNTk3M2M5NjNhMDUyNWM1NzI4YjFjNzRkNzdiY2NlNTBlMzQ4MjdjYjdkYjZjMmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8sRXVDo9tbkY9HdwV6hug4NAbD0523-mVJ6KrQEYDMY", // Placeholder logo for Aditya University
+    img: "https://github.com/user-attachments/assets/bc31db50-608a-4237-8566-f36a37218cc2", // Placeholder logo for Aditya University
     school: "Aditya University, Andhra Pradesh",
     date: "Mar 2020 – Apr 2023",
     grade: "8.21 CGPA",
@@ -142,7 +142,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://private-user-images.githubusercontent.com/92287609/435475668-bd0d054f-a49f-4e1f-824f-44ad2e41df22.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjY0ODksIm5iZiI6MTc0NTIyNjE4OSwicGF0aCI6Ii85MjI4NzYwOS80MzU0NzU2NjgtYmQwZDA1NGYtYTQ5Zi00ZTFmLTgyNGYtNDRhZDJlNDFkZjIyLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyMVQwOTAzMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYjYzMmY2YjFkODZlNDI5OGJlMGRhYTFjZjJkNzUwYjlkZDIxMGMwZTJmZTE0MDg4MTdkMTAzNDEwOTllNDI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.mbZ9aIRRSzUwjeh47De98ir-upcnHSPE8mLPxkeSCUg", // Logo for IIT Roorkee
+    img: "https://github.com/user-attachments/assets/a185e312-cbea-42dd-9713-ca613e5cb7b1", // Logo for IIT Roorkee
     school: "IIT Roorkee & Intellipaat",
     date: "Mar 2024 – Apr 2025",
     grade: "Pursuing",
@@ -190,8 +190,7 @@ export const projects = [
     date: "Mar 2024 - Apr 2024",
     description:
       "Fine-tuned a Large Language Model on custom PDF content. Used embedding models, FAISS vector store, and RAG to build a private QnA bot capable of answering document-specific queries.",
-    image:
-      "https://private-user-images.githubusercontent.com/92287609/435469559-8bf31928-d08a-4c07-9cc5-484b04ae613f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjc1MzksIm5iZiI6MTc0NTIyNzIzOSwicGF0aCI6Ii85MjI4NzYwOS80MzU0Njk1NTktOGJmMzE5MjgtZDA4YS00YzA3LTljYzUtNDg0YjA0YWU2MTNmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA5MjAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNTdhZDEwMzFmZmUyMTkyY2I2NzczM2E2NmEwYzc4MjBkNTBjYWJkMGQxZTNjNGM0ZWQyZTJkYWMyYWY0OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HaMmTxaw7hOUxjPbNVqEUctemrVZ6cLAt4gUzsTy8j0",
+    image:"https://github.com/user-attachments/assets/30b407ad-44c2-4472-95ca-c26ded81fa72",
     tags: ["LLM", "Fine-Tuning", "LangChain", "FAISS", "RAG", "Python"],
     github: "https://github.com/RahulRayi777/FineTuning_Notes"
   },
@@ -202,7 +201,7 @@ export const projects = [
     description:
       "Built a Flask-based recommendation system using cosine similarity and collaborative filtering techniques. Provides movie recommendations based on user input and ratings.",
     image:
-      "https://private-user-images.githubusercontent.com/92287609/435470193-4a7d112c-f689-4237-95a0-393c10e64cc1.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMjc4OTMsIm5iZiI6MTc0NTIyNzU5MywicGF0aCI6Ii85MjI4NzYwOS80MzU0NzAxOTMtNGE3ZDExMmMtZjY4OS00MjM3LTk1YTAtMzkzYzEwZTY0Y2MxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA5MjYzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ODNhODEwNWNjNjgwODI2ZjUzNGRiYmU4ZWNjNjYzMDI0YTliODYwNTM5NDU2Y2VlY2ZmOWM5NTlhN2NhYmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d72T1-oTjeoy4qPF25rAzVaMLAmvCNGX6GgrjeT65Wk",
+      "https://github.com/user-attachments/assets/c2e83b1c-9f21-4f77-91ba-8323a1436f85",
     tags: ["Flask", "Recommendation", "Cosine Similarity", "Machine Learning", "Pandas"],
     github: "https://github.com/RahulRayi777/Recommendation_System"
   },
@@ -224,7 +223,7 @@ export const projects = [
     description:
       "Implemented a machine learning pipeline on Azure ML Studio, covering data preprocessing, model training, and real-time deployment. Tracked experiments and managed versioning through Azure pipelines.",
     image:
-      "https://private-user-images.githubusercontent.com/92287609/435470880-61c81f53-011e-4679-b1e9-8ba661326bac.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNTc0NzMsIm5iZiI6MTc0NTE1NzE3MywicGF0aCI6Ii85MjI4NzYwOS80MzU0NzA4ODAtNjFjODFmNTMtMDExZS00Njc5LWIxZTktOGJhNjYxMzI2YmFjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDEzNTI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkOTM2YmI3ZTU1MzNkYWVhYWExOTYwZjZhZTVjNzE3YmYzNWM2OTkyOThhZWE0N2JjNGUzODUzNGMwYzc0Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SUcSgrT3ZyzLfcsDmmNl_O7gCiCaTMjCUA3jJOkGNJU",
+      "https://github.com/user-attachments/assets/60c4fb74-460f-42a3-ac90-35f8a313b24d",
     tags: ["Azure ML Studio", "MLOps", "Cloud Deployment", "Model Training", "Experiment Tracking"],
     github: "https://github.com/RahulRayi777/ML_PROJECT_ON_AZURE_ML_STUDIO_-MLOPS-"
   }
