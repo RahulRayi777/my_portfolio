@@ -1,15 +1,7 @@
-import React from 'react';
-
-import {
-  Container,
-  Wrapper,
-  Title,
-  Desc,
-  CardContainer,
-  Divider
-} from './ProjectsStyle';
-import ProjectCard from '../Cards/ProjectCards';
-import { projects } from '../../data/constants';
+import React from 'react'
+import { Container, Wrapper, Title, Desc, CardContainer } from './ProjectsStyle'
+import ProjectCard from '../Cards/ProjectCards'
+import { projects } from '../../data/constants'
 
 const Projects = ({ openModal, setOpenModal }) => {
   return (
@@ -17,24 +9,21 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects in ML, DL & NLP.
+          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
         </Desc>
-
         <CardContainer>
-          {projects.map((project, index) => (
-            <ProjectCard
-              key={index}
-              project={project}
-              openModal={openModal}
-              setOpenModal={setOpenModal}
+          {projects.map((project) => (
+            <ProjectCard 
+              key={project.id} 
+              project={project} 
+              openModal={openModal} 
+              setOpenModal={setOpenModal} 
             />
           ))}
         </CardContainer>
-
-        <Divider />
       </Wrapper>
     </Container>
-  );
-};
+  )
+}
 
-export default Projects;
+export default Projects
