@@ -8,7 +8,7 @@ export const Bio = {
     "NLP Engineer",
   ],
   description:
-    "AI enthusiast with a strong foundation in Machine Learning, NLP, and Deep Learning. Passionate about leveraging LLMs, Generative AI, and MLOps to build scalable real-world solutions. I bring a blend of industry experience and technical skills with a continuous drive to innovate and learn.",
+    "AI enthusiast with a strong foundation in Machine Learning, NLP, and Deep Learning. Passionate about leveraging LLMs, Generative AI, and MLOps to build scalable real-world solutions. Currently focusing on Agentic AI, I bring a blend of industry experience and technical skills with a continuous drive to innovate and learn.",
   github: "https://github.com/RahulRayi777",
   resume:
     "https://drive.google.com/file/d/15PqFP_Wd9gZkbLLfXvH937b6E8HPG9Gi/view?usp=drive_link", // Replace with your own resume link if different
@@ -84,21 +84,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://github.com/user-attachments/assets/ea9e83fe-1967-482f-bad5-eb5784915698",
-    role: "Machine Learning Engineer Intern",
-    company: "Inscripta.ai",
-    date: "Jun 2023 - Aug 2023",
-    desc: "Enhanced search accuracy by 30% by optimizing Apache Solr queries and improving data retrieval. Conducted text analytics on over 10,000 customer search queries, increasing keyword targeting accuracy by 40%.",
-    skills: [
-      "Apache Solr",
-      "Text Analytics",
-      "Python",
-      "Data Processing",
-      "Search Optimization"
-    ]
-  },
-  {
-    id: 1,
     img: "https://github.com/user-attachments/assets/5d5f0a83-4c6c-4154-a001-5a5cf1d9c66d",
     role: "Package Analyst",
     company: "L&T Hydrocarbon",
@@ -110,6 +95,21 @@ export const experiences = [
       "Project Management",
       "Trend Forecasting",
       "Cost Analysis"
+    ]
+  },
+  {
+    id: 1,
+    img: "https://github.com/user-attachments/assets/ea9e83fe-1967-482f-bad5-eb5784915698",
+    role: "Machine Learning Engineer Intern",
+    company: "Inscripta.ai",
+    date: "Jun 2023 - Aug 2023",
+    desc: "Enhanced search accuracy by 30% by optimizing Apache Solr queries and improving data retrieval. Conducted text analytics on over 10,000 customer search queries, increasing keyword targeting accuracy by 40%.",
+    skills: [
+      "Apache Solr",
+      "Text Analytics",
+      "Python",
+      "Data Processing",
+      "Search Optimization"
     ]
   },
   {
